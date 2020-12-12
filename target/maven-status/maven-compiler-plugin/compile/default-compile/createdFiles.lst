@@ -1,0 +1,10 @@
+com\perpusSMA\perpusSMA\entity\PeminjamanEntity.class
+com\perpusSMA\perpusSMA\service\PeminjamanService.class
+com\perpusSMA\perpusSMA\repo\BukuRepo.class
+com\perpusSMA\perpusSMA\repo\PeminjamanRepo.class
+com\perpusSMA\perpusSMA\entity\BukuEntity.class
+com\perpusSMA\perpusSMA\controller\BukuController.class
+com\perpusSMA\perpusSMA\PerpusSmaApplication.class
+com\perpusSMA\perpusSMA\CORSFilter.class
+com\perpusSMA\perpusSMA\service\BukuService.class
+com\perpusSMA\perpusSMA\controller\PeminjamanController.class
